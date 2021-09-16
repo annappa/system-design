@@ -1,0 +1,34 @@
+lynda.com - Practical Apache web server administration
+Investigative Worksheet
+
+SSH Username: user
+SSH Password: lynda.com
+SSH Port: 2222
+Hostname: localhost
+
+Operating System: 
+Distribution: 
+Release: 
+
+Apache Version: 
+apachectl:
+service apache2:
+/etc/init.d/apache2:
+
+Configuration file: 
+Configuration layout:
+  [ ] Monolithic
+  [ ] Modular
+
+HTTP_ROOT:
+DocumentRoot:
+
+VirtualHost type:
+  [ ] Name-based
+  [ ] IP-based
+Address: 
+ServerName:  
+
+Status module:
+  [ ] Enabled
+  [ ] Disabled
