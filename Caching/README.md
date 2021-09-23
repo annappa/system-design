@@ -9,6 +9,8 @@
 
 [All things caching- use cases, benefits, strategies, choosing a caching technology, exploring some popular products](https://medium.datadriveninvestor.com/all-things-caching-use-cases-benefits-strategies-choosing-a-caching-technology-exploring-fa6c1f2e93aa)
 
+[Caching — System Design Concept](https://medium.com/enjoy-algorithm/caching-system-design-concept-500134cff300)
+
 ## Caching Strategies
 #### Cache Aside Caching Strategy
 ![Cache Aside Strategy.png](./Images/Cache%20Aside%20Strategy.png)

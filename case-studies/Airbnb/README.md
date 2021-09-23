@@ -1,0 +1,2 @@
+##Info
+[Hotel Booking System | Airbnb System Design](https://tripathi-abhinav.medium.com/hotel-booking-system-airbnb-system-design-most-frequently-asked-question-in-technical-interviews-3b03b4f511f3)
