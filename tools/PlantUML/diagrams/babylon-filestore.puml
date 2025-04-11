@@ -1,0 +1,15 @@
+@startuml
+title Babylon Filestore Flow
+actor       User       as User
+participant Babylon as Babylon
+database    BabylonDB    as BabylonDB
+participant UploadService as UploadService
+entity      FilestoreTempLoc      as filesystem
+
+User -> Babylon : Upload
+Babylon -> UploadService : /file-upload/projects/<projId>/users/<userId>/aconex-file
+UploadService -> filesystem : Stores in Temp Location(mfu directory)
+UploadService -> Babylon : Sends back \ntemp location details
+Babylon -> Babylon : promotes the file to \n permanentLocation in \n Filestore()
+Babylon -> BabylonDB : creates a filex entry with metadata
+@enduml
