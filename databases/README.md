@@ -9,6 +9,8 @@
 
 [A Quick Overview of Different Types of Databases](https://www.astera.com/type/blog/a-quick-overview-of-different-types-of-databases/)
 
+[ACID Properties in DBMS](https://www.geeksforgeeks.org/acid-properties-in-dbms/)
+
 ## Database Replication
 [Database Replication](https://www.youtube.com/watch?v=RIcNswROzCc&list=PLTCrU9sGyburBw9wNOHebv9SjlE4Elv5a&index=18)
 
